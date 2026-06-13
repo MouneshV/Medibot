@@ -1,0 +1,45 @@
+.source-citation {
+  display: flex;
+  gap: 12px;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  margin-bottom: 6px;
+  font-size: 12px;
+}
+
+.source-icon {
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.source-info {
+  flex: 1;
+}
+
+.source-document {
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 2px;
+  word-break: break-word;
+}
+
+.source-section {
+  color: #666;
+  margin-bottom: 4px;
+  font-style: italic;
+}
+
+.source-collection {
+  color: #999;
+  font-size: 11px;
+}
+
+.badge {
+  background-color: #f0f0f0;
+  padding: 2px 6px;
+  border-radius: 3px;
+  margin-left: 4px;
+  font-weight: 500;
+}
